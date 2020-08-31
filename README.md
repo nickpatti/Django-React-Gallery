@@ -2,7 +2,7 @@
 
 Photo/maybe Video gallery using many to many fields - still ugly as there is no css yet. This is mainly just a shortcut for me so I don't have to worry about making a new photo gallery for every client I have.
 
-Pretty sure there is an easier way to do this, rather than having multiple serializers for the same model but it works.
+Pretty sure there is an easier way to do this, rather than having multiple serializers for the same model but it works. If you are reading this feel free to get in touch and let me know if I've been dumb.
 
 Also set up ready for alerts and authentication.
 
