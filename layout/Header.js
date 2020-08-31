@@ -65,9 +65,6 @@ export class Header extends Component {
               <div className="collapse navbar-collapse" id="navbarColor02">
                 <ul className="navbar-nav mr-auto">
                   <li className="nav-item active">
-                    <Link to="/home/" className="nav-link">Home</Link>
-                  </li>
-                  <li className="nav-item active">
                     <Link to="/gallery/" className="nav-link">Gallery</Link>
                   </li>
                   <li className="nav-item">
